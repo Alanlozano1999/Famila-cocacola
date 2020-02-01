@@ -3,6 +3,7 @@ Los refrescos de la familia cocacola son:
 Coca
 Fanta
 Sprit
+Fresca
 Manzana Lift
 Sidral Mundet
 
